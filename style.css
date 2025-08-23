@@ -26,7 +26,7 @@ body {
 body.dark-mode {
   --main-bg: #121212;
   --card-bg: #23272f;
-  --header-bg: #181c23;
+  --header-bg:#066895;
   --footer-bg: #181c23;
   --primary-text: #f1f1f1;
   --hot-card: #6d4b23;
@@ -284,4 +284,5 @@ footer a {
   .forecast-list {
     gap: 4px;
   }
+
 }
